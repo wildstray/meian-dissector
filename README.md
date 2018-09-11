@@ -12,6 +12,7 @@ to arm/disam, configure the alarm system and to interact with home automation.
 
 With a bit reverse engineering and using a demo installation I wrote a python client for Meian proprietary TCP protocol.
 I had nothing to do with Meian, simply I wish/need some bindings for home automation so I wrote it. 
+Moreover I think that flaws and security issues of the protocol should be known.
 
 This is the [Wireshark](https://www.wireshark.org/) dissector I used to analyze the protocol and write the client [meian-client](https://github.com/wildstray/meian-client/)
 
