@@ -15,5 +15,5 @@ I had nothing to do with Meian, simply I wish/need some bindings for home automa
 
 This is the [Wireshark](https://www.wireshark.org/) dissector I used to analyze the protocol and write the client [meian-client](https://github.com/wildstray/meian-client/)
 
-To use the dissector, get [meian.lua](e) and put it in ~/.wireshark/plugins for GNU/Linux, Mac OSX and *nix systems or
+To use the dissector, get [meian.lua](https://raw.githubusercontent.com/wildstray/meian-dissector/master/meian.lua) and put it in ~/.wireshark/plugins for GNU/Linux, Mac OSX and *nix systems or
 in %APPDATA%\Wireshark\plugins for M$ Windows systems.
