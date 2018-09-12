@@ -2,27 +2,27 @@
 -- script-name: meian.lua
 --
 -- author: Andrea Tuccia <andrea at tuccia dot it>
--- Copyright (c) 2018, Andrea Tuccia
 --
--- Meain Wireshark dissector is free software: you can redistribute it and/or modify
+-- Meain TCP protocol Wireshark dissector
+-- Copyright (C) 2018, Andrea Tuccia
+-- 
+-- This program is free software: you can redistribute it and/or modify
 -- it under the terms of the GNU General Public License as published by
 -- the Free Software Foundation, either version 3 of the License, or
 -- (at your option) any later version.
---
--- Meian Wireshark dissector is distributed in the hope that it will be useful,
+-- 
+-- This program is distributed in the hope that it will be useful,
 -- but WITHOUT ANY WARRANTY; without even the implied warranty of
 -- MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
 -- GNU General Public License for more details.
---
+-- 
 -- You should have received a copy of the GNU General Public License
--- along with Nome-Programma.  If not, see <http://www.gnu.org/licenses/>.
--- This code is in the Public Domain, or the BSD (3 clause) license if Public Domain does not apply
--- in your country.
---
+-- along with this program. If not, see <http://www.gnu.org/licenses/>.
+-- 
 -- Version: 0.1
---
+-- 
 -- Proof-of-concept Meian alarms TCP protocol dissector for Wireshark.
---
+-- 
 ----------------------------------------
 
 
